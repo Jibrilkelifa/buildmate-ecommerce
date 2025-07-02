@@ -1,0 +1,24 @@
+# Java build
+target/
+*.class
+*.jar
+
+# Node modules
+node_modules/
+dist/
+
+# IDE files
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+
+# Docker
+**/db/*.sql
+
+# Env vars
+.env
